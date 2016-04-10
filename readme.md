@@ -16,7 +16,7 @@ Given a face photo as input, synthesize a cartoon face.
     * PHOG
     * Poisson Image Editing
 2. Run version1
-    1. run demo1_prepare.mb
+    1. run demo1_prepare.m
     2. run demo1.m
 3. Run version2
     1. run landmark_prepare.m, brow_prepare.m, eye_prepare.m, mouth_prepare.m, nose_prepare.m, demo2_prepare.m    
